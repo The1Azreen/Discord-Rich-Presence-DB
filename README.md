@@ -1,6 +1,6 @@
 # Discord-Rich-Presence-DB
 
-##TUTORIAL
+## TUTORIAL
 **Importing the Project**
 Due to Unity's project size exceeding GitHub's file size limit, we have compressed the project into a Unity package. You can import it into another Unity project to see how the code works.
 
