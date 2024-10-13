@@ -4,12 +4,16 @@
 
 ### The scope of the work includes building a user-friendly front-end using Unity Engine (C#) that interacts seamlessly with the SQLite database and the Discord API. The application allows users to register and login, curate their game list, search, and sort games, view other users' lists, and set custom Discord statuses based on their game preferences.
 
+## TUTORIAL for running the application
 
-## TUTORIAL
+### 1. Open the application folder and run the My Project.exe 
+
+
+### 2. Create an Account to start using the application
+
+## TUTORIAL for opening the source code
 **Importing the Project**
 Due to Unity's project size exceeding GitHub's file size limit, we have compressed the project into a Unity package. You can import it into another Unity project to see how the code works.
-
-**Video Tutorial**
 
 **Step-by-Step Instructions**
 
@@ -39,8 +43,6 @@ Our code can be found under the **Scripts** folder for review.
 
 **Using the Discord Plugin**
 
-**Video Tutorial**
-
 To use the Discord plugin, follow these steps:
 
 ### 1. Create a Discord Application
@@ -53,7 +55,7 @@ Click **Create New Application**, choose a name, and find the **Application ID**
 Head to your Discord app, go to **Settings**, type "advanced", and enable **Developer Mode**.
 
 ### 4. Login with Discord ID
-Head to the project app, log in with your Discord ID, and paste the Client ID.
+Head to the project app, log in with your Discord ID and paste the Client ID.
 
 ### 5. Choose a Game and Display Status
 Choose a game you want to display in your curated list and click **Display Status**. You should see the status updated on Discord.
