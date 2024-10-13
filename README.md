@@ -1,5 +1,10 @@
 # Discord-Rich-Presence-DB
 
+### This project aims to develop a Unity-based application that enables users to manage their game list while customizing their Discord experience. The primary goal is to allow users to set custom statuses from their curated list of games. This project leverages datasets from Kaggle and uses SQLite as the backend database management system (DBMS).
+
+### The scope of the work includes building a user-friendly front-end using Unity Engine (C#) that interacts seamlessly with the SQLite database and the Discord API. The application allows users to register and login, curate their game list, search, and sort games, view other users' lists, and set custom Discord statuses based on their game preferences.
+
+
 ## TUTORIAL
 **Importing the Project**
 Due to Unity's project size exceeding GitHub's file size limit, we have compressed the project into a Unity package. You can import it into another Unity project to see how the code works.
